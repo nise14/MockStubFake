@@ -1,0 +1,15 @@
+C:\Repository\MockFakeStub\Data\bin\Debug\net6.0\Data.deps.json
+C:\Repository\MockFakeStub\Data\bin\Debug\net6.0\Data.dll
+C:\Repository\MockFakeStub\Data\bin\Debug\net6.0\Data.pdb
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\Data.dll
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\Data.pdb
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Repository\MockFakeStub\Data\bin\Debug\net6.0\DTOs.dll
+C:\Repository\MockFakeStub\Data\bin\Debug\net6.0\DTOs.pdb
+C:\Repository\MockFakeStub\Data\obj\Debug\net6.0\Data.csproj.CopyComplete

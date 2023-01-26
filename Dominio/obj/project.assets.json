@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DTOs": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
+      },
+      "DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
+    },
+    "DTOs/1.0.0": {
+      "type": "project",
+      "path": "../DTOs/DTOs.csproj",
+      "msbuildProject": "../DTOs/DTOs.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DTOs >= 1.0.0",
+      "Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Repository\\MockFakeStub\\Dominio\\Dominio.csproj",
+      "projectName": "Dominio",
+      "projectPath": "C:\\Repository\\MockFakeStub\\Dominio\\Dominio.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Repository\\MockFakeStub\\Dominio\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Repository\\MockFakeStub\\Data\\Data.csproj": {
+              "projectPath": "C:\\Repository\\MockFakeStub\\Data\\Data.csproj"
+            },
+            "C:\\Repository\\MockFakeStub\\DTOs\\DTOs.csproj": {
+              "projectPath": "C:\\Repository\\MockFakeStub\\DTOs\\DTOs.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

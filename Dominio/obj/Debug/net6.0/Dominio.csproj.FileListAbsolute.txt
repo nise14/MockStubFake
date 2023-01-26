@@ -1,0 +1,17 @@
+C:\Repository\MockFakeStub\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Repository\MockFakeStub\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Repository\MockFakeStub\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+C:\Repository\MockFakeStub\Dominio\bin\Debug\net6.0\Data.dll
+C:\Repository\MockFakeStub\Dominio\bin\Debug\net6.0\DTOs.dll
+C:\Repository\MockFakeStub\Dominio\bin\Debug\net6.0\Data.pdb
+C:\Repository\MockFakeStub\Dominio\bin\Debug\net6.0\DTOs.pdb
+C:\Repository\MockFakeStub\Dominio\obj\Debug\net6.0\Dominio.csproj.CopyComplete
